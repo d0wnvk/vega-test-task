@@ -40,4 +40,5 @@ I will name them and provide a quick explanation how it should go in real applic
 - processOrder() and cancelOrder() should be able to work with a collection of Orders in thread safe way in a real application.
 The whole OrderBook object implementation is not supported to work in multithreaded mode in this test application.
 - to be able to do equals operations on Financial Instrument objects I implemented a very simple logic for equals() and hashCode() methods which brings me O(log N) search complexity.
-Another way to find a certain FinInstr is to have them all in a List collection and just have iteration operation throw the all elements, but the search complexity is O(n) in that case.
+Another way to find a certain FinInstr object is to have all of them in a collection of type List 
+and just have iteration operation through all the elements, but the search complexity will be the O(n) in that case.
