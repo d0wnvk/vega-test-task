@@ -20,8 +20,6 @@ import org.example.vega.model.OrderBuy;
 import org.example.vega.model.OrderSell;
 import org.junit.jupiter.api.Test;
 
-// todo delete User
-
 class VegaTradingSystemTest {
 
     @Test
