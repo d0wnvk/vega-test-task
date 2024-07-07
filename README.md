@@ -1,6 +1,6 @@
 # Vega trading system test task
 
-## Introduction
+## Description
 
 Being an applicant I am asked to write a simple trading system with several constraints.<br>
 Taking into account the fact I know nothing about trading systems I'm glad I have this challenge anyway.<br>
