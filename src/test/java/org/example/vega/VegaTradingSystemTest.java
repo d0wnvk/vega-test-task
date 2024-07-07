@@ -15,7 +15,7 @@ import org.example.vega.model.Account;
 import org.example.vega.model.FinInstr;
 import org.example.vega.model.Market;
 import org.example.vega.model.Order;
-import org.example.vega.model.OrderBook;
+import org.example.vega.service.OrderBook;
 import org.example.vega.model.OrderBuy;
 import org.example.vega.model.OrderSell;
 import org.junit.jupiter.api.Test;
