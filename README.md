@@ -5,7 +5,7 @@
 Being an applicant I am asked to write a simple trading system with several constraints.<br>
 Taking into account the fact I know nothing about trading systems I'm glad I have this challenge anyway.<br>
 It was the best several days I spend working on this task I have for the last six months.<br>
-I decided not to bring dependency injection framework in my solution and just use Java lang and stick functional programming style as mush as possible.
+I decided not to bring any dependency injection framework in my solution and just use plain old Java lang and stick to functional programming style as mush as possible.
 
 ## Getting Started
 
