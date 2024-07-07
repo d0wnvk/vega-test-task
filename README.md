@@ -20,7 +20,7 @@ No classic tests are written (e.g. given/when/then test cases).
 In test folder I just wrote test scenarios.
 They could be run inside Intellij Idea IDE directly.
 
-## Application design in several words.
+## Application design in several words
 When a composite order having three Fin Insrt is placed it is considered to be completed only for the case if underlying stocks
 orders are matched. 
 I did a little assumption that the match is not enough, and it is good to have an additional checks for account's balance and Fin Instr quantity.
@@ -32,7 +32,7 @@ In pseudo-code it could be presented as follows:
 - executeOrders();
 - updateAccountWithNewValues(); 
 
-## Concerns I would review if I was writing a real application.
+## Concerns I would review if I was writing a real application
 
 Since I have a limited amount of time I have implemented several things in a simple way.
 I will name them and provide a quick explanation how it should go in real application.
