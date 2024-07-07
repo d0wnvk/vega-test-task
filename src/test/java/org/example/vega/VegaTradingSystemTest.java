@@ -1,4 +1,4 @@
-package org.example.ver01;
+package org.example.vega;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
